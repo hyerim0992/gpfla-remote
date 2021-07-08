@@ -1,2 +1,2 @@
-#from 6 node
+# from node 7
 # gpfla-remote
